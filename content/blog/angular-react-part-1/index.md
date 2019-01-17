@@ -20,12 +20,10 @@ We'll start off with a very basic solution for the problem. We'll take a `<Butto
 
 #### Setup the env 
 ```sh
-
 npm install -g @angular/cli
 ng new angular-react-app
 cd angular-react-app
 ng serve
-
 ```
 
 
